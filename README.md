@@ -1,4 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm NoCoffeeCode!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/you)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome)](https://your-portfolio.com)
+
+**🔧 Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react)
+
+**🚀 Featured Projects**  
+| Project | Description | Tech |  
+|---------|-------------|------|  
+| [Project Alpha](https://github.com/you/alpha) | A machine learning pipeline | Python, PyTorch |  
+| [Weather API](https://github.com/you/weather) | Real-time weather dashboard | React, Node.js |  
+
+**📊 Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoCoffeeCode&show_icons=true&theme=radical)
 
 <!--
 **NoCoffeeCode/NoCoffeeCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
