@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm NoCoffeeCode!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)]([https://linkedin.com/in/you](https://www.linkedin.com/in/space-cadet-601061372?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkPa3ykO%2FSm%2BCAQIkXPjp7A%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)]((https://www.linkedin.com/in/space-cadet-601061372?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkPa3ykO%2FSm%2BCAQIkXPjp7A%3D%3D))
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome)](https://your-portfolio.com)
 
 **🔧 Tech Stack**  
